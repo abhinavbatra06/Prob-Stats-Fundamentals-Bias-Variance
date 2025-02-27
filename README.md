@@ -22,6 +22,7 @@ This project analyzes the systolic blood pressure (`ap_hi`) from the `cardio.csv
 - NumPy
 - Pandas
 - Matplotlib
+- Seaborn
 
 ## Usage
 1. Load the dataset (`cardio.csv`).
