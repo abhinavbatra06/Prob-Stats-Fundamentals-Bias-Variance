@@ -1,7 +1,4 @@
-# Prob-Stats-Fundamentals-Bias-Variance
-
-
-# Blood Pressure Analysis (cardio.csv)
+# Prob-Stats-Fundamentals-Bias-Variance - Blood Pressure Analysis (cardio.csv)
 
 This project analyzes the systolic blood pressure (`ap_hi`) from the `cardio.csv` dataset using statistical techniques.
 
